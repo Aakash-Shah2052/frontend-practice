@@ -1,0 +1,44 @@
+body {
+  background-color: lightblue;
+}
+h1{
+			color: yellow;
+			background-color: red;
+			text-align: center;
+			padding: 10px;
+		}
+h2{
+	color:blue;
+	text-align:leftt;
+	font-size: 30px;
+	border:2px solid tomato;
+
+}
+h3{
+	color:blue;
+	text-align:center;
+	font-size: 30px;
+	border:2px solid tomato;
+
+}
+h4{
+	color:blue;
+	text-align:left;
+	font-size: 25px;
+	border:2px solid tomato;
+
+}
+h5{
+	color:blue;
+	text-align:center;
+	font-size: 25px;
+	border:2px solid tomato;
+
+}
+h6{
+	color:blue;
+	text-align:right;
+	font-size: 20px;
+	border:2px solid tomato;
+
+}		
